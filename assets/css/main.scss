@@ -210,6 +210,31 @@ body {
   margin-bottom: 0.35rem;
 }
 
+.home-books-section {
+  clear: both;
+  margin-top: 0.4rem;
+}
+
+.home-books-intro {
+  margin-top: -0.15rem;
+  margin-bottom: 0.6rem;
+  color: var(--global-text-color-light);
+}
+
+.home-books-section .book-feature-grid {
+  grid-template-columns: repeat(2, minmax(0, 1fr));
+  gap: 1rem;
+}
+
+.home-books-section .book-feature-card {
+  grid-template-columns: 132px 1fr;
+  min-height: 100%;
+}
+
+.home-books-section .book-feature-cover {
+  width: 132px;
+}
+
 .focus-pill-list {
   list-style: none;
   display: flex;
@@ -293,9 +318,24 @@ body {
     grid-template-columns: 1fr;
   }
 
+  .home-books-section .book-feature-card {
+    grid-template-columns: 1fr;
+  }
+
   .book-feature-cover {
     width: 150px;
     margin: 0 auto;
+  }
+
+  .home-books-section .book-feature-cover {
+    width: 150px;
+    margin: 0 auto;
+  }
+}
+
+@media (max-width: 920px) {
+  .home-books-section .book-feature-grid {
+    grid-template-columns: 1fr;
   }
 }
 
