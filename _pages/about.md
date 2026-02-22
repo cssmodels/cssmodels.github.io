@@ -25,6 +25,35 @@ His work combines large-scale computational analysis with social theory, and has
 
 His work has received over 4,000 citations (Google Scholar).
 
+## Featured Books
+
+<div class="book-feature-grid">
+  <article class="book-feature-card">
+    <img
+      class="book-feature-cover"
+      src="/assets/img/book_covers/intimatebook.webp"
+      alt="Cover of Intimate Communities of Hate"
+    >
+    <div class="book-feature-meta">
+      <h3><em>Intimate Communities of Hate</em> (Routledge, 2024)</h3>
+      <p>A book-length account of how social media affordances and online group dynamics fuel far-right extremism.</p>
+      <p><a href="https://doi.org/10.4324/9781003108344">DOI</a> · <a href="https://www.altmetric.com/details.php?doi=10.4324%2F9781003108344">Altmetric</a> · <a href="https://www.routledge.com/Intimate-Communities-of-Hate-Why-Social-Media-Fuels-Far-Right-Extremism/Tornberg-Tornberg/p/book/9780367622008">Purchase</a></p>
+    </div>
+  </article>
+  <article class="book-feature-card">
+    <img
+      class="book-feature-cover"
+      src="/assets/img/book_covers/seeinglikeaplatform.jpeg"
+      alt="Cover of Seeing Like a Platform"
+    >
+    <div class="book-feature-meta">
+      <h3><em>Seeing Like a Platform</em> (Taylor &amp; Francis, 2025)</h3>
+      <p>A theoretical and empirical inquiry into platform power, governance, and digital modernity.</p>
+      <p><a href="https://doi.org/10.4324/9781003326861">DOI</a> · <a href="https://www.altmetric.com/details.php?doi=10.4324%2F9781003326861">Altmetric</a> · <a href="https://www.seeinglikeaplatform.com/">Website</a></p>
+    </div>
+  </article>
+</div>
+
 ## Research Focus
 
 - Digital politics, misinformation, and polarization

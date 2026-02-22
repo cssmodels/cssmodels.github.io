@@ -26,7 +26,7 @@ Please see my [Google Scholar profile](https://scholar.google.com/citations?user
     <div class="book-feature-meta">
       <h3><em>Intimate Communities of Hate</em> (Routledge, 2024)</h3>
       <p>A book-length account of how social media affordances and online group dynamics fuel far-right extremism.</p>
-      <p><a href="https://doi.org/10.4324/9781003108344">DOI</a> · <a href="https://www.altmetric.com/details.php?doi=10.4324%2F9781003108344">Altmetric</a></p>
+      <p><a href="https://doi.org/10.4324/9781003108344">DOI</a> · <a href="https://www.altmetric.com/details.php?doi=10.4324%2F9781003108344">Altmetric</a> · <a href="https://www.routledge.com/Intimate-Communities-of-Hate-Why-Social-Media-Fuels-Far-Right-Extremism/Tornberg-Tornberg/p/book/9780367622008">Purchase</a></p>
     </div>
   </article>
   <article class="book-feature-card">
@@ -38,7 +38,7 @@ Please see my [Google Scholar profile](https://scholar.google.com/citations?user
     <div class="book-feature-meta">
       <h3><em>Seeing Like a Platform</em> (Taylor &amp; Francis, 2025)</h3>
       <p>A theoretical and empirical inquiry into platform power, governance, and digital modernity.</p>
-      <p><a href="https://doi.org/10.4324/9781003326861">DOI</a> · <a href="https://www.altmetric.com/details.php?doi=10.4324%2F9781003326861">Altmetric</a></p>
+      <p><a href="https://doi.org/10.4324/9781003326861">DOI</a> · <a href="https://www.altmetric.com/details.php?doi=10.4324%2F9781003326861">Altmetric</a> · <a href="https://www.seeinglikeaplatform.com/">Website</a></p>
     </div>
   </article>
 </div>
