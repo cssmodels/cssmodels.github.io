@@ -35,7 +35,7 @@ Institute for Logic, Language and Computation (ILLC), University of Amsterdam
 - MSc in Complex Adaptive Systems, Chalmers University of Technology (2011)
 - BSc in Computer Science, Chalmers University of Technology (2010)
 
-## Service and Recognition
+## Service and Academic Activities
 
 - Head of Research Unit: AI, Culture & Society (ILLC)
 - Member, De Jonge Akademie (KNAW)

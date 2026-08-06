@@ -8,16 +8,15 @@ last_name: Törnberg
 contact_note: >
   For interviews, speaking invitations, or collaboration inquiries, please contact Petter via email.
 description: > # the ">" symbol means to ignore newlines until "footer_text:"
-  Associate Professor in Computational Social Science at the University of Amsterdam. Research on digital platforms,
-  AI, political communication, and polarization.
+  Research on how digital platforms and AI reshape public discourse, political conflict, urban life, and democratic institutions.
 footer_text: >
   © Petter Törnberg. Built with <a href="https://jekyllrb.com/" target="_blank">Jekyll</a> and
   <a href="https://github.com/alshedivat/al-folio" target="_blank">al-folio</a>.
 keywords: Petter Törnberg, University of Amsterdam, computational social science, digital politics, social media, AI, polarization
 lang: en # the language of your site (for example: en, fr, cn, ru, etc.)
-icon: 🧠 # the emoji used as the favicon (alternatively, provide image name in /assets/img/)
+icon: favicon.svg # restrained PT monogram used as the favicon
 
-url: "https://cssmodels.github.io"
+url: "https://pettertornberg.com"
 baseurl: ""   # must be empty for a user/org site repo named cssmodels.github.io
 title: "Petter Törnberg"  # (any title)
 

@@ -7,10 +7,9 @@ nav_order: 2
 description: podcast, writing, and media appearances
 ---
 
-## Media Impact
+## In the Media
 
-This work has received sustained international media attention across science journalism, policy media, national newspapers, and podcasts.  
-Coverage includes outlets such as *Science*, *The Guardian*, *The Atlantic*, *New Scientist*, *Business Insider*, and *Tech Policy Press*, with repeated attention to research on misinformation, polarization, platform design, and AI-driven social simulation.
+The appearances and pieces collected here are part of an ongoing conversation about digital platforms, misinformation, polarization, AI, and public life. They include interviews, podcasts, essays, and reporting connected to this research.
 
 ## Podcast
 

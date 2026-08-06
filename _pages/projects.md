@@ -7,7 +7,7 @@ nav: true
 nav_order: 4
 ---
 
-Projects are grouped by grant period into current and past work.
+These projects grow from a shared interest in how technologies shape collective life. They are grouped by period, with grant information included as context and collaborators named where useful.
 
 ## Current Projects
 
