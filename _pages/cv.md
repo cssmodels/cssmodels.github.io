@@ -30,7 +30,7 @@ Institute for Logic, Language and Computation (ILLC), University of Amsterdam
 
 ## Education
 
-- Habilitation / P.D., Chalmers University of Technology (2022)
+- Docent (academic title), Chalmers University of Technology (2022)
 - PhD in Complex Systems, Chalmers University of Technology (2017)
 - MSc in Complex Adaptive Systems, Chalmers University of Technology (2011)
 - BSc in Computer Science, Chalmers University of Technology (2010)
