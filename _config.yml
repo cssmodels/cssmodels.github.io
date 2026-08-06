@@ -16,7 +16,7 @@ keywords: Petter Törnberg, University of Amsterdam, computational social scienc
 lang: en # the language of your site (for example: en, fr, cn, ru, etc.)
 icon: favicon.svg # restrained PT monogram used as the favicon
 
-url: "https://pettertornberg.com"
+url: "https://www.pettertornberg.com"
 baseurl: ""   # must be empty for a user/org site repo named cssmodels.github.io
 title: "Petter Törnberg"  # (any title)
 
