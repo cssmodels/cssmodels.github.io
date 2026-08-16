@@ -2,7 +2,7 @@
 layout: page
 permalink: /publications/
 title: publications
-description: books and selected publications
+description: books and recent publications
 nav: true
 nav_order: 1
 ---
@@ -42,6 +42,30 @@ The page offers a selection of books and papers, followed by a broader bibliogra
   </article>
 </div>
 
+## Recent Publications
+
+The recent work extends the research program into the dynamics of conflict, the politics of urban scarcity, multimodal misinformation, and the social consequences of generative AI.
+
+### *Echo chambers are defined by conflict, not isolation* (Sociological Science, 2026)
+[DOI](https://doi.org/10.15195/v13.a22) · [Altmetric](https://www.altmetric.com/details.php?doi=10.15195%2Fv13.a22)
+
+This paper argues that conflict, rather than isolation alone, is central to the formation of online echo chambers. It introduces a signed-network approach that brings negative interactions into the study of polarization.
+
+### *The aesthetics of climate misinformation* (Environmental Politics, 2026)
+[DOI](https://doi.org/10.1080/09644016.2025.2557684) · [Altmetric](https://www.altmetric.com/details.php?doi=10.1080%2F09644016.2025.2557684)
+
+Uses computational analysis of text and images to examine how climate misinformation is framed across modalities.
+
+### *The City as an Anti-Growth Machine* (Antipode, 2026)
+[DOI](https://doi.org/10.1111/anti.70145) · [Altmetric](https://www.altmetric.com/details.php?doi=10.1111%2Fanti.70145)
+
+Argues that financialized urban economies can make restricting development a way to protect asset values, producing an anti-growth machine with consequences for affordability and exclusion.
+
+### *Political bias audits of LLMs capture sycophancy to the inferred auditor* (arXiv, 2026)
+[arXiv](https://arxiv.org/abs/2604.27633) · [Altmetric](https://www.altmetric.com/details.php?arxiv_id=2604.27633)
+
+Shows how standard political-bias audits can partly measure how language models accommodate the identity and expectations of the person they infer is asking the questions.
+
 ## Selected Publications: Questions and Contributions
 
 ### 1) *How digital media drive affective polarization through partisan sorting* (PNAS, 2022)
@@ -50,7 +74,7 @@ The page offers a selection of books and papers, followed by a broader bibliogra
 This paper argues that social media intensify polarization less through persuasion and more through **partisan sorting** and identity reinforcement.
 The paper's contribution is a clearer account of polarization dynamics, showing how changes in social connection can matter as much as changes in political opinion.
 
-### 2) *When do parties lie? Misinformation and radical-right populism across 26 countries* (The International Journal of Press/Politics, 2025)
+### 2) *When do parties lie? Misinformation and radical-right populism across 26 countries* (The International Journal of Press/Politics, 2026)
 [DOI](https://doi.org/10.1177/19401612241311886) · [Altmetric](https://www.altmetric.com/details.php?doi=10.1177%2F19401612241311886)
 
 A large cross-national analysis linking party families to misinformation behavior.
