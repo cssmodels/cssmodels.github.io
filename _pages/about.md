@@ -10,6 +10,7 @@ profile:
   image_circular: false
 
 selected_papers: true
+selected_papers_title: recent publications
 social: true
 
 announcements:
@@ -80,7 +81,7 @@ These questions often require more than one kind of evidence. The work combines 
 <div class="explore-grid">
   <a class="explore-card" href="/publications/">
     <h3>Publications</h3>
-    <p>Selected papers, books, and research questions.</p>
+    <p>Recent papers, books, and research questions.</p>
   </a>
   <a class="explore-card" href="/projects/">
     <h3>Projects</h3>
