@@ -19,7 +19,6 @@ These projects grow from a shared interest in how technologies shape collective 
 - **PhD students:**
   - **Erfan Monazzah** (2025-): Improving social media through AI (funded by VIDI).
   - **Michelle Schimmel** (2025-): Language models, social media, and affective polarization (funded by VIDI).
-  - **Daniele Barolo** (2025-, advisory team): Large language models for social science research.
 
 ### DemDialogueAI: A Cross-National Study to Promote Democratic Dialogue on Social Media Using Generative AI (Trans-Atlantic Platform)
 - **Period:** 2024-2027
