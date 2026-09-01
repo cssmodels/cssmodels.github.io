@@ -57,5 +57,5 @@ His research asks how platforms shape attention, political disagreement, misinfo
 
 ## Media Contact
 
-- Email: [petter.tornberg@uva.nl](mailto:petter.tornberg@uva.nl)
+- Email: [p.tornberg@uva.nl](mailto:p.tornberg@uva.nl)
 - Institutional profile: [University of Amsterdam profile](https://www.uva.nl/profiel/t/o/p.tornberg/p.tornberg.html)

@@ -9,7 +9,7 @@ description: academic positions, grants, supervision, teaching, and service
 
 ## Current Position
 
-**UD1, Computational Social Science**<br>
+**Associate Professor (UHD2), Computational Social Science**<br>
 Institute for Logic, Language and Computation (ILLC), University of Amsterdam
 
 ## Previous Appointments
