@@ -6,7 +6,7 @@ subtitle: Research on digital platforms, AI, and collective life
 
 profile:
   align: right
-  image: petter-tornberg-profile.jpg
+  image: press/petter-tornberg-press-featured-web.jpg
   image_circular: false
 
 selected_papers: true
