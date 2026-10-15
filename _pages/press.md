@@ -13,18 +13,26 @@ description: press kit, biography, and downloadable photos
   <figure class="press-photo-item">
     <img
       class="press-photo-thumb"
-      src="/assets/img/press/petter-tornberg-press-1-web.jpg"
-      alt="Petter Törnberg press photo 1"
+      src="/assets/img/press/petter-tornberg-press-featured-web.jpg"
+      alt="Petter Törnberg press photo"
     >
-    <figcaption>Download full-resolution JPG: <a href="/assets/files/press/petter-tornberg-press-1.jpg">press photo 1</a></figcaption>
+    <figcaption>Download full-resolution JPG: <a href="/assets/files/press/petter-tornberg-press-featured.jpg">press photo 1</a></figcaption>
+  </figure>
+  <figure class="press-photo-item">
+    <img
+      class="press-photo-thumb"
+      src="/assets/img/press/petter-tornberg-press-1-web.jpg"
+      alt="Petter Törnberg press photo 2"
+    >
+    <figcaption>Download full-resolution JPG: <a href="/assets/files/press/petter-tornberg-press-1.jpg">press photo 2</a></figcaption>
   </figure>
   <figure class="press-photo-item">
     <img
       class="press-photo-thumb"
       src="/assets/img/press/petter-tornberg-press-2-web.jpg"
-      alt="Petter Törnberg press photo 2"
+      alt="Petter Törnberg press photo 3"
     >
-    <figcaption>Download full-resolution JPG: <a href="/assets/files/press/petter-tornberg-press-2.jpg">press photo 2</a></figcaption>
+    <figcaption>Download full-resolution JPG: <a href="/assets/files/press/petter-tornberg-press-2.jpg">press photo 3</a></figcaption>
   </figure>
 </div>
 
